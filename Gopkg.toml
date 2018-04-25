@@ -47,3 +47,7 @@
 [[constraint]]
   branch = "master"
   name = "github.com/mitchellh/go-homedir"
+
+[[constraint]]
+  name = "github.com/google/go-containerregistry"
+  revision = "1968f30e5218f752a594ef6a425e24576d64814a"
